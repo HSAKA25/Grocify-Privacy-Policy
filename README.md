@@ -58,7 +58,7 @@ We do **not** require dangerous or runtime permissions.
 
 - **Data Retention:** Your data is kept only for as long as you maintain your account or keep the application installed.
 - **User Rights & Data Deletion:** You have the right to access, modify, or permanently delete your data. You can edit your profile directly in the app drawer. To request complete deletion of your account and associated cloud data, contact us at:
-  **as524610@gmail.com** with the subject line *"Account Deletion Request"*. All associated records will be purged within 30 days.
+  **hsakacompany@gmail.com** with the subject line *"Account Deletion Request"*. All associated records will be purged within 30 days.
 
 ---
 
