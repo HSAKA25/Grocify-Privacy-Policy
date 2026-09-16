@@ -78,5 +78,5 @@ We may update this Privacy Policy from time to time. Any modifications will be p
 
 If you have any questions, suggestions, or privacy concerns regarding Grocify, please contact us:
 
-- **Developer / Support Contact:** as524610@gmail.com
+- **Developer / Support Contact:** hsakacompany@gmail.com
 - **App Name:** Grocify
